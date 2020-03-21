@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Costcount</string>
+    <string-array name="currencies">
+
+        <item>PLN</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CHF</item>
+
+    </string-array>
+</resources>
